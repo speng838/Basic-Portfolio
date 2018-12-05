@@ -1,0 +1,68 @@
+body{
+    background-image: url("assets/css/pipes.png");
+}
+
+header{
+    background-color:#ffffff;
+    width: 100%;
+    border-bottom:1px solid #cccccc;  
+    height: 68px;  
+}
+
+#name{
+    background-color:teal ;
+    color:white;
+    margin-left:11%;
+    width:150px;
+    text-align: center;
+    float: left
+}
+
+nav{
+    float: left;
+    margin-left: 50%;
+    margin-top: 2%;
+
+}
+
+#about{
+    width: 960px;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 0.5px solid #cccccc;
+    margin: auto;
+    margin-top: 50px;
+    overflow: auto;
+    clear: both;
+}
+
+#aboutme{
+    color:teal;
+    border-bottom:1px solid #cccccc;  
+}
+
+#aboutMeImage{
+    transform: rotate(90deg);
+}
+
+div p{
+    color: #777777;
+}
+
+footer{
+    background-color: #666666;
+    width: 100%;
+    height: 75px;
+    margin-top: 100px;
+}
+
+footer section{
+    background-color: teal;
+    width: 100%;
+    height: 5px;
+}
+
+h6{
+    color:white;
+    text-align: center;
+}
